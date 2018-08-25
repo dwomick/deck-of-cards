@@ -1,7 +1,7 @@
 # HTML5 Deck of Cards
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/pakastin/deck-of-cards?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-Pure vanilla JS (+ CSS3) – no dependencies, by [Juha Lindstedt](https://github.com/pakastin) & [contributors](https://github.com/pakastin/deck-of-cards/graphs/contributors).
+Pure vanilla JS (+ CSS3) – no dependencies, forked from [Juha Lindstedt](https://github.com/pakastin) & [contributors](https://github.com/pakastin/deck-of-cards/graphs/contributors).
 
 https://deck-of-cards.js.org
 
@@ -9,21 +9,21 @@ https://deck-of-cards.js.org
 
 Frontside card graphics are slightly modified from Chris Aguilar's awesome [Vector Playing Card Graphics Set](http://sourceforge.net/projects/vector-cards/).
 
-Also check out my [RE:DOM](https://redom.js.org) and [HTML5 Node Garden](https://nodegarden.js.org) projects!
+Also check out Juha's [RE:DOM](https://redom.js.org) and [HTML5 Node Garden](https://nodegarden.js.org) projects!
 
 ## Note
-I'm currently rewriting the Deck of Cards. Lots of cool stuff coming soon! 😉
+I'm going to be adding some avajs tests (to help me learn my way around the code, among other things, and in preparation for some extensions/applications I have in mind).
 
 ## License
 
 LGPL if you use Chris Aguilar's [vector playing cards](http://sourceforge.net/projects/vector-cards/). Otherwise MIT.
 
-## Download
+## Juha's downloads
 
 - [Production version (~5 KB uncompressed)](https://deck-of-cards.js.org/dist/deck.min.js)
 - [Development version (~15 KB uncompressed)](https://deck-of-cards.js.org/dist/deck.js)
 
-## Installation from npm
+## Install Juha's original version from npm
     npm install deck-of-cards
 
 Then add in your html file
